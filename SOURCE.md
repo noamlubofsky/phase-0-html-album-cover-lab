@@ -8,6 +8,8 @@ HAPPY
 
 <!-- BACK -->
 
+<body>
+
 | &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; |
 
 HAPPY
@@ -23,3 +25,5 @@ PHARRELLWILLIAMS.COM
 COLUMBIARECORDS.COM
 
 [sony-logo.png]
+
+</body>
